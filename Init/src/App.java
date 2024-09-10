@@ -12,6 +12,8 @@ public class App {
 
 pessoa.apresentarP();
 
+livro.setNome("Java como programar");
+System.out.println(livro.getNome());
     };
    
 }
